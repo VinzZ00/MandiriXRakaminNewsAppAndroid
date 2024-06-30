@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MandiriNews</string>
+    <string name="home_page_subtitle">Berita Terkini</string>
+    <string name="news_list_title">Semua Berita</string>
+</resources>
